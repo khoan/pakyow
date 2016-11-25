@@ -235,7 +235,7 @@ Pakyow keeps track of what clients should receive what state mutations
 with channels. Here's how a channel is structured:
 
 ```
-scope:{name};mutation{name}::{qualifiers}
+scope:{name};mutation:{name}::{qualifiers}
 ```
 
 In the example from the Mutators section, the subscribed channel name is:
